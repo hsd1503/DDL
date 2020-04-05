@@ -11,4 +11,5 @@
 | 4  | CinC  | 2020/04/15 (abs)                                                                                  | Sep 13-16, Rimini, Italy      | https://www.cinc2020.org/              |
 | 5  | NIPS  |   [Countdown](https://www.timeanddate.com/countdown/generic?iso=20200512T13&p0=256&msg=NeurIPS&font=cursive&csz=1)                                                                                                | Dec 6-12, Vancouver           | https://nips.cc/Conferences/2020/Dates |
 | 9  | AAAI  |                                                                                                   |                               |                                        |
+| 10 | ICASSP  |                                                                                                   | May 4-8, 2020. Barcelona, Spain       |        https://2020.ieeeicassp.org                                |
 | 10 | WWW   |                                                                                                   | April 20-24, Taiwan           | https://www2020.thewebconf.org/        |
