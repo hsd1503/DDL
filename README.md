@@ -9,7 +9,7 @@
 | 3  | AMIA  | 2020/03/11            | Nov 14-18, 2020, Chicago            | https://www.amia.org/amia2020          |
 | 3  | MLHC  |                       | Aug 6-8, 2020, Duke, NC             | https://www.mlforhc.org/               |
 | 4  | CinC  | 2020/04/15 (abs).     | Sep 13-16, 2020, Rimini, Italy      | https://www.cinc2020.org/              |
-| 5  | NIPS  | May 12 01:00 PM PDT   | Dec 6-12, 2020, Vancouver           | https://nips.cc/Conferences/2020/Dates |
+| 5  | NIPS  | Abstract submission deadline: May 27; Paper submission deadline: June 3   | Dec 6-12, 2020, Vancouver           | https://nips.cc/Conferences/2020/Dates |
 | 9  | AAAI  |                       | Feb 2-9, 2021, Vancouver            | https://aaai.org/Conferences/AAAI-21/  |
 | 10 | ICASSP|                       | May 4-8, 2020, Barcelona, Spain     | https://2020.ieeeicassp.org            |
 | 10 | WWW   |                       | Apr 20-24, 2020, Taiwan             | https://www2020.thewebconf.org/        |
